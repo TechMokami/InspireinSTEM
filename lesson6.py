@@ -6,7 +6,6 @@ print(city[-1:])
 print(city[:-1])
 
 
-
 f_name = "Joan Mokami " # small letters
 
 

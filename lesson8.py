@@ -1,4 +1,4 @@
-# Concatination - converting from oe data type tp anpther
+# Concatination - converting from one data type to another
 #int -> float
 # float -> int      
 # int-> string      str()
