@@ -1,7 +1,7 @@
 # Concatination - converting from one data type to another
 #int -> float
 # float -> int      
-# int-> string      str()
+# int -> string      str()
 
 number = 6
 print(str(number))
