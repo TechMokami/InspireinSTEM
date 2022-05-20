@@ -1,10 +1,4 @@
 # Lists
-# from argparse import MetavarTypeHelpFormatter
-
-from os import remove
-from re import I
-
-
 motorcycle_owner = "Mojo jojo"
 plate_number = ['H103', 'Y120' ,'S650' , 'B777']
 motorcycles = ['Honda','Yamaha','Suzuki']
