@@ -1,10 +1,8 @@
 # Area of a circle
 pi = 3.142
-
 radius = input("Enter radius of the circle ")
 area_of_circle = int (pi) * int (radius) * int (radius) 
 print("Area of the circle is " + str (area_of_circle))
-
 
 
 # Surface area of a cylinder
@@ -16,18 +14,12 @@ area_of_a_cylinder = int (pi) * int (radius) * int (radius) + int (pi) * int (di
 print("The area of the cylinder is " + str (area_of_a_cylinder))
 
 
-
-
-
 # Volume of a cylinder
 pi = 3.142
 radius = input("Enter radius of the circle ")
 height = input("Enter height of the cylinder ")
 volume = int (pi) * int (radius) * int (radius) * int (height)
 print("The volume of the cylinder = " + str (volume))
-
-
-
 
 
 # Volume of a cube
