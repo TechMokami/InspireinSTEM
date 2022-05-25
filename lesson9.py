@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # The replace() method replaces a string with another
 
 name = "Brett Copper"
