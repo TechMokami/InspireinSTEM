@@ -4,4 +4,3 @@ msg = ''' You have received sh 2000
 
 msg = """ You have received sh 2000 
         from James Muoki """
-        
