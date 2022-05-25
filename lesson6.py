@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Slice
 city = "Nairobi"
 print(city[:5])
