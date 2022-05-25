@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # String methods
 
 # name = "Ada Lovelace"
