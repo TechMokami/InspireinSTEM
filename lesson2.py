@@ -1,3 +1,4 @@
+#!/usr/bin/python
 age = 18
 
 number_of_siblings = 2
