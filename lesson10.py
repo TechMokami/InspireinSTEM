@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Lists
 motorcycle_owner = "Mojo jojo"
 plate_number = ['H103', 'Y120' ,'S650' , 'B777']
@@ -35,8 +36,13 @@ motorcycles = ['Honda','Yamaha','Suzuki']
 #  Task - print a statement 'My name is Mojo jojo and I own a motorcycle plate number ...'
 # print("My name is {} and I own a motorcycle plate number {} " .format(motorcycle_owner, plate_number[0]))
 # print(f"My name is {motorcycle_owner} and I own a motorcycle plate number {plate_number[0]}")
-print(f"My name is {motorcycle_owner} and I own a {motorcycles[0]} motorcycle plate number {plate_number[0]}")
+# print(f"My name is {motorcycle_owner} and I own a {motorcycles[0]} motorcycle plate number {plate_number[0]}")
 
-# Extracing an item from a list
-motorcycles.remove('Honda')
-print(motorcycles)
+# # Extracing an item from a list
+# motorcycles.remove('Honda')
+# print(motorcycles)
+
+fruits = ['Mango','Apple','Lime']
+print(fruits[-1])
+fruits[3]='banana'
+print(fruits)
