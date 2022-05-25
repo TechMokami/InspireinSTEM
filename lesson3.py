@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Getting user input
 
 my_first_name = input("Enter first name")
