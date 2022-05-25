@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Integers
 
 x = 170
