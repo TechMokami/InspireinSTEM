@@ -9,6 +9,6 @@
 # Displaying even numbers
 num=0
 while num<=10:
-    if num%2==0:
+    if num%2==1:
         print(num)
-        num=num+2
+        num=num+1
