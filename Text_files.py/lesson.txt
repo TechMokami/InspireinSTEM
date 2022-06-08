@@ -1,0 +1,16 @@
+This is a normal text file 
+Learning to code
+Python is FUN
+Today is pretty cloudy
+
+f =open("lesson.txt") = f=open("lesson.txt",'r') = opensa file 
+w = opens a file for writing
+r = opens a file for reading
+x = creates a new file and opens it.
+a = opens a file for appending at the end.
+t = opens a file in text mode - Text mode allows one to read and write text in a file
+b = opens a file in binary mode. - 
++ - opens a file for reading and writing
+
+
+f=open("lesson2.txt",'x')
