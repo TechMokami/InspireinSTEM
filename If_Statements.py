@@ -7,9 +7,9 @@
 ############################
 
 # IF THEN ELSE...
-# age = 24
-# if age >= 18:
-#     print("You are allowed to drive")
+age = 24
+if age >= 18:
+    print("You are allowed to drive")
 
 # else :
 #     print("You are underage")
